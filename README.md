@@ -42,3 +42,5 @@
 
 ![圖4-2 近期販售物件資料](./Description_Image/近期販售物件資料.png)
 <p align="center">圖4-2 近期販售物件資料</p>
+
+### 備註：因近年google map api不再免費開放，所以若要地圖可以進行使用者輸入地址後定位，要在function資料夾中得get_locat.R的函數中，加入google map api自行申請的api_key才能正常使用
